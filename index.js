@@ -13,7 +13,7 @@ function calculateGasFunction(value) {
 const privateKey = process.env.PRIVATE_KEY_ADDRESS_CLAIM;
 
 console.log(privateKey)
-const intervalMinutes = 30;
+const intervalMinutes = 5;
 const intervalMilliseconds = intervalMinutes * 60 * 1000;
 const fnDistributeCoin = async () => {
   // Node RPC
