@@ -1,0 +1,11 @@
+{
+  "name": "test_deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SonnyVictok <vinhdh@uniorbit.org>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "ethers": "5.7.2"
+  }
+}
